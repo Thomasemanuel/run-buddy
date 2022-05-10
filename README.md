@@ -14,7 +14,7 @@ https://lernantino.github.io/run-buddy/
 Made with ❤️ by [your name]
 
 
-##Run Buddy exercise
+## Run Buddy exercise
 
 The lesson plan calls for the following command lines to be entered (Module 1.2.3)
   
