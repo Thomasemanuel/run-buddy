@@ -1,7 +1,22 @@
-# run-buddy
-Run Buddy exercise
+# Run Buddy
 
-The lesson calls for the following command lines to be entered (Module 1.2.3)
+## Purpose
+A website that offers fitness training services.
+
+## Built With
+* HTML
+* CSS
+
+## Website
+https://lernantino.github.io/run-buddy/
+
+## Contribution
+Made with ❤️ by [your name]
+
+
+##Run Buddy exercise
+
+The lesson plan calls for the following command lines to be entered (Module 1.2.3)
   
         <h1> <a href="/">RUN BUDDY</a> </h1>
 
@@ -13,4 +28,4 @@ The lesson calls for the following command lines to be entered (Module 1.2.3)
   
          <h1> <a href="index.html">RUN BUDDY</a> </h1>
          
-  Now when you press the 'RUN BUDDY' button it takes you top the homepage as it should. 
+  Now when you press the 'RUN BUDDY' button it takes you to the homepage as it should. 
